@@ -1,6 +1,8 @@
 👋 Hi, I’m Mohit
-JavaScript ❤️
-I’m currently looking forward to collaborate on open source javascript/reactjs/redux projects
+
+I’m JavaScript Programmer by proffession and by choice ❤️
+
+Looking forward to collaborate on open source javascript/reactjs/redux/functional_programming projects
 
 📫 How to reach me => mohit.chavda1997@gmail.com
 
